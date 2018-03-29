@@ -1,0 +1,22 @@
+{
+  "name": "web-components-sample",
+  "version": "1.0.0",
+  "description": "https://kebary.github.io/web-components-sample/",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./ -o -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tsuyukusa-rk@github.com/kebary/web-components-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kebary/web-components-sample/issues"
+  },
+  "homepage": "https://github.com/kebary/web-components-sample#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
